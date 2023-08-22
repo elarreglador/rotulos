@@ -12,6 +12,15 @@ Puedes usar los rotulos de tecnologías incluidos en este repositorio en tus pro
 
 Para la creacion y modificacion de estos badges, he empleado gimp, y el fichero original del que parten todos los demas es Tecnologias.xcf . Por otro lado, cada uno de los rotulos .png tiene adjunto un archivo de tipo .xcf , este archivo nos permitira generar variantes de cada uno de los rotulos generados.
 
+## Ejemplos
+
+<img src="https://github.com/elarreglador/rotulos/blob/main/Redes%20LinkedIn.png" />
+<img src="https://github.com/elarreglador/rotulos/blob/main/Redes%20Web.png" />
+<img src="https://github.com/elarreglador/rotulos/blob/main/Tecnologias%20Dart.png" />
+<img src="https://github.com/elarreglador/rotulos/blob/main/Tecnologias%20Git.png" />
+
+
+
 ## ¡Las contribuciones son bienvenidas!
 
 Siéntete libre de contribuir agregando más rotulos de tecnologías o mejorando los existentes. 
